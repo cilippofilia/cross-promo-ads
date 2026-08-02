@@ -14,19 +14,6 @@
       "transparent": true
     },
     {
-      "appStoreID": "6760037639",
-      "name": "Iterly Screens",
-      "title": "Ship Your Apps",
-      "description": "Track tasks, plan releases, and ship your indie app with confidence — built for solo developers.",
-      "category": "developerTools",
-      "media": "https://raw.githubusercontent.com/cilippofilia/cross-promo-ads/main/icons/iterly-screens.png",
-      "backgroundColor": "1E5FC4",
-      "textColor": "FFFFFF",
-      "tintColor": "FFFFFF",
-      "fullscreen": true,
-      "transparent": true
-    },
-    {
       "appStoreID": "6757445119",
       "name": "itsWritten",
       "title": "Reflect & Understand Yourself",
@@ -40,19 +27,6 @@
       "transparent": true
     },
     {
-      "appStoreID": "6757445119",
-      "name": "itsWritten Screens",
-      "title": "Reflect & Understand Yourself",
-      "description": "A private space for journaling and reflection, powered by Apple Intelligence.",
-      "category": "lifestyle",
-      "media": "https://raw.githubusercontent.com/cilippofilia/cross-promo-ads/main/icons/itswritten-screens.png",
-      "backgroundColor": "F4F1EC",
-      "textColor": "1C1C1E",
-      "tintColor": "1C1C1E",
-      "fullscreen": true,
-      "transparent": true
-    },
-    {
       "appStoreID": "6449893371",
       "name": "Drinko",
       "title": "Make Better Cocktails",
@@ -63,19 +37,6 @@
       "textColor": "FFFFFF",
       "tintColor": "F5C542",
       "fullscreen": false,
-      "transparent": true
-    },
-    {
-      "appStoreID": "6449893371",
-      "name": "Drinko Screens",
-      "title": "Make Better Cocktails",
-      "description": "100+ classic cocktail recipes, bartending tutorials, and a smart cabinet to track ingredients.",
-      "category": "foodAndDrink",
-      "media": "https://raw.githubusercontent.com/cilippofilia/cross-promo-ads/main/icons/drinko-screens.png",
-      "backgroundColor": "1C86F2",
-      "textColor": "FFFFFF",
-      "tintColor": "F5C542",
-      "fullscreen": true,
       "transparent": true
     }
   ]
