@@ -38,6 +38,19 @@
       "tintColor": "F5C542",
       "fullscreen": false,
       "transparent": true
+    },
+    {
+      "appStoreID": "6776386637",
+      "name": "9 Tiles Puzzle",
+      "title": "Turn Photos into Puzzles",
+      "description": "Slice any photo into tiles and put it back together. Seven modes, a Daily Challenge, and streaks to chase.",
+      "category": "games",
+      "media": "https://raw.githubusercontent.com/cilippofilia/cross-promo-ads/main/icons/ninetilespuzzle.png",
+      "backgroundColor": "1C1C1E",
+      "textColor": "FFFFFF",
+      "tintColor": "F29A1F",
+      "fullscreen": false,
+      "transparent": true
     }
   ]
 }

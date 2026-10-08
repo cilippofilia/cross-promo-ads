@@ -59,5 +59,3 @@ That's the entire integration — no package fork, no per-app code beyond this c
 
 - An app isn't added to `ads.json` until it's actually live on the App Store (an ad
   linking to an unreleased app would 404 the App Store Connect page for anyone who taps it).
-- `NineTilesPuzzle` (App Store ID `6776386637`) isn't live yet, so it isn't in the feed.
-  Add it once it ships.
